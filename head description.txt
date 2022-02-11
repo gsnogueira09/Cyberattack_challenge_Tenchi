@@ -1,0 +1,8 @@
+id- Unique record identifier
+affected_count - Number of data records involved in the breach
+total_amount - Dollar cost of the breach
+naic_sector - Two digit NAICS code of the industry sector
+naic_national_industry - Full six-digit NAICS code for the breached company
+sector - Text description of the naic_sector field
+breach_date - Date the breach occurred
+cause - High level summary of the cause of the breach
