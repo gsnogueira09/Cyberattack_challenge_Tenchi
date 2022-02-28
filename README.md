@@ -12,3 +12,4 @@ In the repository are attached the following files:
   1. Main database (cyberattack_challenge.csv)
   2. Head descriptions of the database (head description.txt)
   3. Script with Pre-processing and Exploratory analyses (prep_and_exp_Tenchi.ipynb)
+  4. Script with Detailed analyses (detailed_Tenchi.ipynb)
