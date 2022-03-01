@@ -13,3 +13,4 @@ In the repository are attached the following files:
   2. Head descriptions of the database (head description.txt)
   3. Script with Pre-processing and Exploratory analyses (prep_and_exp_Tenchi.ipynb)
   4. Script with Detailed analyses (detailed_Tenchi.ipynb)
+  5. Dashboard report (dash_report_tenchi.pdf)
